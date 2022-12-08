@@ -1,11 +1,13 @@
 #include <stdio.h>
 
 /**
- * Include main with a print output programming is like building
- * Return: 0 output
+ * main - prints the phrase "Programming is like building a multilingual puzzle
+ * Return: 0 if exited properly, non-zero otherwise
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return(0);
+
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
+
 }
