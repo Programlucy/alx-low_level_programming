@@ -1,6 +1,4 @@
-#!/bin/bash
 #include <stdio.h>
-
 
 /**
  * Include main with a print output programming is like building
