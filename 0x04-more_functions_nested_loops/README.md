@@ -1,0 +1,1 @@
+More rested functions assignment
