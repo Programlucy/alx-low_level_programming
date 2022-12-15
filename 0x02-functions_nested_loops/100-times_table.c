@@ -20,8 +20,8 @@ putformat(i * j);
 _putchar('\n');
 }
 }
-
 }
+
 
 /**
  * putformat - formatted characters to output
@@ -31,7 +31,6 @@ _putchar('\n');
 void putformat(int n)
 {
 if (n <= 9)
-
 {
 _putchar(',');
 _putchar(' ');
