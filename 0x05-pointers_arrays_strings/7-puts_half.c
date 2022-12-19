@@ -27,8 +27,8 @@ n += 1;
 
 while str[n] != '\0'
 {
-										_putchar(*(str + n));
-										n++;
+_putchar(*(str + n));
+n++;
 }
 _putchar('\n');
 }
