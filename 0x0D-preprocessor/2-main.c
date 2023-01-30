@@ -2,7 +2,7 @@
 #include "main.h"
 /**
  *main - A program prints name of the file compiled from and a new line.
- *Return: Returns 0 on sucessful exit.
+ *Return: Returns 0 on sucessful exit....
  */
 int main(void)
 {
